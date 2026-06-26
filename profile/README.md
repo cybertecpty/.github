@@ -27,7 +27,7 @@ Every system we build is measured twice and shipped once. We treat software the 
 ## Get in touch
 
 → [cybertec.io](https://cybertec.io)
-→ daniel@cybertec.io
+→ contact@cybertec.io
 
 ---
 
