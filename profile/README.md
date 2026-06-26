@@ -2,33 +2,29 @@
 
 > *Code, crafted with care.*
 
-We build production software for teams that need systems to last, scale, and stay maintainable long after launch.
+I'm **Daniel McGrath** — a senior full-stack engineer (Angular specialist, 15+ years)
+building production software made to last. **Available for contract & freelance work.**
 
 ---
 
-## What we do
+## What I do
 
-**Software development** — full-stack applications architected for longevity. We build systems correctly, not just quickly.
+- **Full-stack feature work** — Angular frontends backed by Node, Firebase, Azure, or .NET, owned end to end.
+- **Legacy & AngularJS migrations** — moving real platforms onto modern Angular and Nx, incrementally.
+- **Testing, structure & mentoring** — coverage, architecture, and lifting a team's frontend standard.
 
-**Consulting** — technical strategy, system architecture reviews, and engineering advisory for teams that want a senior partner, not just a vendor.
+## How I work
 
----
+I treat software as a craft — measured, deliberate, made to last. You hire one senior
+engineer accountable end to end: no account managers, no handoffs. Honest estimates,
+clear communication, and code the next person can actually work in.
 
-## How we work
+## Stack
 
-Every system we build is measured twice and shipped once. We treat software the way a craftsman treats their work — with precision, deliberate structure, and care for the details that only reveal themselves over time.
-
-- Architecture before implementation — we design systems that can grow
-- Tolerance over flash — restraint and clarity over clever complexity
-- Built to last — maintainable, documented, handed over cleanly
-
----
+`Angular` · `TypeScript` · `RxJS` · `NgRx` · `Nx` · `Node.js` · `NestJS` · `Firebase` · `Azure`
 
 ## Get in touch
 
 → [cybertec.io](https://cybertec.io)
 → contact@cybertec.io
-
----
-
-<sub>*The CyberTec mark is a CT monogram inspired by 匠 (takumi) — the Japanese kanji for master craftsman.*</sub>
+→ [LinkedIn](https://linkedin.com/in/djmcgrath101)
