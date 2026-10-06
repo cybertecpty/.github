@@ -21,7 +21,7 @@ clear communication, and code the next person can actually work in.
 
 ## Stack
 
-`Angular` · `TypeScript` · `RxJS` · `NgRx` · `Nx` · `Node.js` · `NestJS` · `Firebase` · `Azure`
+`Angular` · `TypeScript` · `RxJS` · `NgRx` · `Nx` · `Node.js` · `.NET` · `Firebase` · `Azure`
 
 ## Get in touch
 
