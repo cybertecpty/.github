@@ -2,28 +2,29 @@
 
 > *Code, crafted with care.*
 
-I'm **Daniel McGrath** — a senior full-stack engineer (Angular specialist, 15+ years)
-building production software made to last. **Available for contract & freelance work.**
+I'm **Daniel McGrath** — a senior full-stack engineer with 15+ years of experience, working
+mainly with Angular and Nx monorepos. CyberTec is the umbrella for my personal brand and projects.
 
 ---
 
-## What I do
+## What I'm working on
 
-- **Full-stack feature work** — Angular frontends backed by Node, Firebase, Azure, or .NET, owned end to end.
-- **Legacy & AngularJS migrations** — moving real platforms onto modern Angular and Nx, incrementally.
-- **Testing, structure & mentoring** — coverage, architecture, and lifting a team's frontend standard.
+- **[platform](https://github.com/cybertecpty/platform)** — work in progress: an Nx monorepo built
+  in the open, with architecture decision records, lint-enforced module boundaries, and a
+  spec-driven AI development workflow.
 
-## How I work
+## What I've done
 
-I treat software as a craft — measured, deliberate, made to last. You hire one senior
-engineer accountable end to end: no account managers, no handoffs. Honest estimates,
-clear communication, and code the next person can actually work in.
+- **Angular & NgRx architecture** — a curriculum navigation system and an assessment system on an EdTech platform serving hundreds of thousands of students.
+- **Nx monorepo migration** — moving a growing codebase onto shared libraries, tooling, and CI.
+- **AngularJS to Angular migration** — incrementally, with legacy pages and new views running side by side.
+- **Accessible component libraries** — Angular Material and the CDK, built to WCAG.
 
 ## Stack
 
 `Angular` · `TypeScript` · `RxJS` · `NgRx` · `Nx` · `Node.js` · `.NET` · `Firebase` · `Azure`
 
-## Get in touch
+## Say hello
 
 → [cybertec.io](https://cybertec.io)
 → contact@cybertec.io
